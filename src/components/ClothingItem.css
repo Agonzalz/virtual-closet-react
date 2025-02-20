@@ -1,0 +1,15 @@
+
+.clothingitem {
+    display: flex;
+    justify-content: space-between;
+    border-style: solid;
+}
+
+
+img{
+    height: auto;
+    width: 100px; 
+    border-style: solid;
+}
+
+
